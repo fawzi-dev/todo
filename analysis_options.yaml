@@ -1,1 +1,9 @@
 include: package:flutter_lints/flutter.yaml
+
+
+
+rules:
+  avoid_print: true
+
+formatter:
+ trailing_commas:  preserve 
